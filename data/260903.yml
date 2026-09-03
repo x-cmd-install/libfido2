@@ -1,0 +1,63 @@
+about:
+  description: Provides library functionality for FIDO2, including communication with a device over USB or NFC.
+  license: NOASSERTION
+  homepage: 
+  head: 626a4d8
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-03T05:06:28Z
+timeline:
+  created: 2018-04-19
+  lastCommit: 2026-07-10
+  lastRelease: ?
+popularity:
+  star: 730
+  watcher: 58
+  fork: 188
+  release: 0
+  contributor: 171
+  pullRequest: 58
+  issue: 264
+language:
+  C: 1138366
+  Shell: 37888
+  CMake: 27988
+  Gnuplot: 15924
+  PowerShell: 15379
+  Makefile: 3017
+  Awk: 2679
+  Dockerfile: 634
+totalLine: 1241875
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 2
+    openPR: 2
+    closedIssue: 3
+    openIssue: 2
+    commit: 3
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 38
+    openPR: 2
+    closedIssue: 7
+    openIssue: 3
+    commit: 87
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 70
+    openPR: 2
+    closedIssue: 14
+    openIssue: 4
+    commit: 164
