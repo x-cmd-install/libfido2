@@ -5,7 +5,7 @@ about:
   head: 626a4d8
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:39:13Z
+  collectedAt: 2026-09-07T19:45:00Z
 timeline:
   created: 2018-04-19
   lastCommit: 2026-07-10
@@ -86,7 +86,7 @@ total:
   commit: 2132
 ---
 path: /home/runner/.x-repo/github.com/Yubico/libfido2
-collectedAt: 2026-09-07T04:39:16Z
+collectedAt: 2026-09-07T19:45:02Z
 loc:
   C:
     code: 32647
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:39:16+00:00
+  collectedAt: 2026-09-07T19:45:03+00:00
   platform:
     darwin/arm64:
       name:  null
