@@ -5,13 +5,13 @@ about:
   head: 626a4d8
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T01:57:56Z
+  collectedAt: 2026-09-08T04:31:56Z
 timeline:
   created: 2018-04-19
   lastCommit: 2026-07-10
   lastRelease: 
 popularity:
-  star: 731
+  star: 732
   watcher: 58
   fork: 188
   release: 0
@@ -86,7 +86,7 @@ total:
   commit: 2132
 ---
 path: /home/runner/.x-repo/github.com/Yubico/libfido2
-collectedAt: 2026-09-08T01:57:59Z
+collectedAt: 2026-09-08T04:32:00Z
 loc:
   C:
     code: 32647
