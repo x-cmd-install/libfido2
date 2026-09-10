@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:42:17Z
+  collectedAt: 2026-09-10T16:28:44Z
 timeline:
   created: 2018-04-19
   lastCommit: 2026-07-10
@@ -90,7 +90,7 @@ total:
   commit: 2132
 ---
 path: /home/runner/.x-repo/github.com/Yubico/libfido2
-collectedAt: 2026-09-10T04:42:22Z
+collectedAt: 2026-09-10T16:28:49Z
 loc:
   C:
     code: 32647
