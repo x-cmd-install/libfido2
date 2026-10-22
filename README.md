@@ -14,11 +14,11 @@ x install libfido2
 
 ## Code insight
 
-Total: **38,628** lines of code across **173** files in the top 5 languages.
+Total: **38,625** lines of code across **173** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,651 | 1,714 | 6,130 | 120 |
+| C | 32,648 | 1,714 | 6,129 | 120 |
 | CHeader | 3,520 | 1,029 | 703 | 32 |
 | CMake | 1,215 | 80 | 126 | 8 |
 | Sh | 459 | 71 | 65 | 9 |
@@ -35,18 +35,18 @@ Total: **38,628** lines of code across **173** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 566 · **Open PRs**: 16 · **Closed issues**: 254 · **Open issues**: 14 · **Commits**: 2137
+- **Releases**: 0 · **Merged PRs**: 567 · **Open PRs**: 15 · **Closed issues**: 254 · **Open issues**: 14 · **Commits**: 2138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 4 | 8 | 0 | 3 | 5 |
-| last60d | 2026-08-22 | 0 | 4 | 9 | 0 | 4 | 5 |
-| 90d | 2026-07-23 | 0 | 4 | 9 | 0 | 4 | 5 |
-| last180d | 2026-04-24 | 0 | 12 | 11 | 5 | 6 | 31 |
-| 360d | 2025-10-26 | 0 | 69 | 11 | 13 | 7 | 140 |
-| last720d | 2024-10-31 | 0 | 93 | 12 | 20 | 10 | 213 |
+| 30d | 2026-09-22 | 0 | 5 | 7 | 0 | 3 | 6 |
+| last60d | 2026-08-23 | 0 | 5 | 8 | 0 | 4 | 6 |
+| 90d | 2026-07-24 | 0 | 5 | 8 | 0 | 4 | 6 |
+| last180d | 2026-04-25 | 0 | 13 | 10 | 5 | 6 | 32 |
+| 360d | 2025-10-27 | 0 | 70 | 10 | 13 | 7 | 141 |
+| last720d | 2024-11-01 | 0 | 94 | 11 | 20 | 10 | 214 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:46:01Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:00Z._
