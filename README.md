@@ -41,12 +41,31 @@ Total: **38,625** lines of code across **173** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 5 | 7 | 0 | 3 | 6 |
-| last60d | 2026-08-23 | 0 | 5 | 8 | 0 | 4 | 6 |
-| 90d | 2026-07-24 | 0 | 5 | 8 | 0 | 4 | 6 |
-| last180d | 2026-04-25 | 0 | 13 | 10 | 5 | 6 | 32 |
-| 360d | 2025-10-27 | 0 | 70 | 10 | 13 | 7 | 141 |
-| last720d | 2024-11-01 | 0 | 94 | 11 | 20 | 10 | 214 |
+| 30d | 2026-09-23 | 0 | 5 | 7 | 0 | 3 | 6 |
+| last60d | 2026-08-24 | 0 | 5 | 8 | 0 | 4 | 6 |
+| 90d | 2026-07-25 | 0 | 5 | 8 | 0 | 4 | 6 |
+| last180d | 2026-04-26 | 0 | 13 | 10 | 5 | 6 | 32 |
+| 360d | 2025-10-28 | 0 | 63 | 10 | 13 | 7 | 141 |
+| last720d | 2024-11-02 | 0 | 93 | 11 | 20 | 10 | 214 |
+
+## Distribution status
+
+Reported by **172** distros on [repology.org](https://repology.org/project/libfido2). **59** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.17.0` | ✅ latest |
+| Debian 14 | `1.17.0` | ✅ latest |
+| Debian 13 | `1.15.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.14.0` | ⚠️ outdated |
+| Arch | `1.17.0` | ✅ latest |
+| Homebrew | `1.17.0` | ✅ latest |
+| Fedora rawhide | `1.17.0` | ✅ latest |
+| Nix unstable | `1.17.0` | ✅ latest |
+| Void | `1.17.0` | ✅ latest |
+| Alpine edge | `1.17.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.16.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -57,4 +76,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:43:52Z._
