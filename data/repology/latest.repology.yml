@@ -1,39 +1,3 @@
-- repo: raspbian_stable
-  subrepo: main
-  srcname: libfido2
-  binnames:
-    - libfido2-1
-    - libfido2-dev
-    - libfido2-doc
-    - fido2-tools
-  visiblename: libfido2
-  version: 1.15.0
-  origversion: 1.15.0-1
-  status: outdated
-  maintainers:
-    - pkg-auth-maintainers@lists.alioth.debian.org
-    - cjwatson@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: libfido2
-  binnames:
-    - libfido2-1
-    - libfido2-dev
-    - libfido2-doc
-    - fido2-tools
-  visiblename: libfido2
-  version: 1.17.0
-  origversion: 1.17.0-2
-  status: newest
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - cjwatson@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
 - repo: aerynos
   srcname: libfido2
   visiblename: libfido2
@@ -362,6 +326,23 @@
     - wpsinatra@gmail.com
   licenses:
     - BSD-2-Clause
+- repo: openkylin_2_0
+  subrepo: nile/main
+  srcname: libfido2
+  binnames:
+    - libfido2-1
+    - libfido2-dev
+    - libfido2-doc
+    - fido2-tools
+  visiblename: libfido2
+  version: 1.14.0
+  origversion: 1.14.0-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - libs
 - repo: alpine_3_22
   subrepo: main
   srcname: libfido2
@@ -490,6 +471,17 @@
   summary: library for FIDO 2.0 functionality (documentation)
   maintainers:
     - wpsinatra@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: parabola
+  subrepo: extra
+  srcname: libfido2
+  binname: libfido2
+  visiblename: libfido2
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
+  summary: Library functionality for FIDO 2.0, including communication with a device over USB
   licenses:
     - BSD-2-Clause
 - repo: alpine_3_24
@@ -865,6 +857,24 @@
   summary: Library and tools for FIDO devices over USB or NFC
   licenses:
     - BSD-2-Clause
+- repo: pardus_21
+  subrepo: main
+  srcname: libfido2
+  binnames:
+    - libfido2-1
+    - libfido2-dev
+    - libfido2-doc
+    - fido2-tools
+  visiblename: libfido2
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: outdated
+  maintainers:
+    - pkg-auth-maintainers@lists.alioth.debian.org
+    - cjwatson@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
 - repo: chimera
   subrepo: main
   srcname: libfido2
@@ -1332,7 +1342,7 @@
     - fido2-tools
   visiblename: libfido2
   version: 1.17.0
-  origversion: 1.17.0-6.fc46
+  origversion: 1.17.0-7.fc46
   status: newest
   summary: FIDO2 library
   licenses:
@@ -1434,6 +1444,24 @@
     - BSD-2
   categories:
     - dev-libs
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: libfido2
+  binnames:
+    - libfido2-1
+    - libfido2-dev
+    - libfido2-doc
+    - fido2-tools
+  visiblename: libfido2
+  version: 1.15.0
+  origversion: 1.15.0-1
+  status: outdated
+  maintainers:
+    - pkg-auth-maintainers@lists.alioth.debian.org
+    - cjwatson@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
 - repo: liguros_develop
   srcname: dev-libs/libfido2
   visiblename: dev-libs/libfido2
@@ -1590,6 +1618,24 @@
   summary: Library functionality for FIDO 2.0, including communication with a device over USB (mingw-w64)
   licenses:
     - BSD-2-Clause
+- repo: parrot
+  subrepo: parrot/main
+  srcname: libfido2
+  binnames:
+    - libfido2-1
+    - libfido2-dev
+    - libfido2-doc
+    - fido2-tools
+  visiblename: libfido2
+  version: 1.15.0
+  origversion: 1.15.0-1
+  status: outdated
+  maintainers:
+    - pkg-auth-maintainers@lists.alioth.debian.org
+    - cjwatson@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
 - repo: msys2_msys2
   subrepo: x86_64
   srcname: libfido2
@@ -1693,18 +1739,6 @@
     - pavol@rusnak.io
   licenses:
     - BSD-2-Clause
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: libfido2
-  visiblename: libfido2
-  version: 1.13.0
-  origversion: 1.13.0-150600.10.3
-  status: outdated
-  summary: FIDO U2F and FIDO 2.0 protocols
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Development/Libraries/C and C++
 - repo: nix_stable_26_05
   srcname: libfido2
   visiblename: libfido2
@@ -1763,23 +1797,15 @@
     - nicoo@debian.org
   categories:
     - libs
-- repo: openkylin_2_0
-  subrepo: nile/main
+- repo: pclinuxos
   srcname: libfido2
-  binnames:
-    - libfido2-1
-    - libfido2-dev
-    - libfido2-doc
-    - fido2-tools
   visiblename: libfido2
   version: 1.14.0
-  origversion: 1.14.0-ok1
+  origversion: 1.14.0-1pclos2023
   status: outdated
-  maintainers:
-    - packaging@lists.openkylin.top
-    - luoyaoming@kylinos.cn
+  summary: FIDO2 library
   categories:
-    - libs
+    - System/Libraries
 - repo: openkylin_2_0
   subrepo: nile-proposed/main
   srcname: libfido2
@@ -1873,18 +1899,6 @@
   categories:
     - Security
 - repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: libfido2
-  visiblename: libfido2
-  version: 1.5.0
-  origversion: 1.5.0-1.30
-  status: legacy
-  summary: FIDO U2F and FIDO 2.0 protocols
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: opensuse_leap_15_5
   subrepo: updates/sle
   srcname: libfido2
   visiblename: libfido2
@@ -1902,6 +1916,30 @@
   visiblename: libfido2
   version: 1.13.0
   origversion: 1.13.0-150400.5.6.1
+  status: outdated
+  summary: FIDO U2F and FIDO 2.0 protocols
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Development/Libraries/C and C++
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: libfido2
+  visiblename: libfido2
+  version: 1.5.0
+  origversion: 1.5.0-1.30
+  status: legacy
+  summary: FIDO U2F and FIDO 2.0 protocols
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: libfido2
+  visiblename: libfido2
+  version: 1.13.0
+  origversion: 1.13.0-150600.10.3
   status: outdated
   summary: FIDO U2F and FIDO 2.0 protocols
   licenses:
@@ -1969,80 +2007,6 @@
     - linosgian00+openwrt@gmail.com
   categories:
     - libs
-- repo: parabola
-  subrepo: extra
-  srcname: libfido2
-  binname: libfido2
-  visiblename: libfido2
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Library functionality for FIDO 2.0, including communication with a device over USB
-  licenses:
-    - BSD-2-Clause
-- repo: pardus_21
-  subrepo: main
-  srcname: libfido2
-  binnames:
-    - libfido2-1
-    - libfido2-dev
-    - libfido2-doc
-    - fido2-tools
-  visiblename: libfido2
-  version: 1.6.0
-  origversion: 1.6.0-2
-  status: outdated
-  maintainers:
-    - pkg-auth-maintainers@lists.alioth.debian.org
-    - cjwatson@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: libfido2
-  binnames:
-    - libfido2-1
-    - libfido2-dev
-    - libfido2-doc
-    - fido2-tools
-  visiblename: libfido2
-  version: 1.15.0
-  origversion: 1.15.0-1
-  status: outdated
-  maintainers:
-    - pkg-auth-maintainers@lists.alioth.debian.org
-    - cjwatson@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: libfido2
-  binnames:
-    - libfido2-1
-    - libfido2-dev
-    - libfido2-doc
-    - fido2-tools
-  visiblename: libfido2
-  version: 1.15.0
-  origversion: 1.15.0-1
-  status: outdated
-  maintainers:
-    - pkg-auth-maintainers@lists.alioth.debian.org
-    - cjwatson@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: pclinuxos
-  srcname: libfido2
-  visiblename: libfido2
-  version: 1.14.0
-  origversion: 1.14.0-1pclos2023
-  status: outdated
-  summary: FIDO2 library
-  categories:
-    - System/Libraries
 - repo: pkgsrc_2026_2
   srcname: security/libfido2
   binname: libfido2
@@ -2135,6 +2099,42 @@
   status: outdated
   maintainers:
     - pkg-auth-maintainers@lists.alioth.debian.org
+    - cjwatson@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: libfido2
+  binnames:
+    - libfido2-1
+    - libfido2-dev
+    - libfido2-doc
+    - fido2-tools
+  visiblename: libfido2
+  version: 1.15.0
+  origversion: 1.15.0-1
+  status: outdated
+  maintainers:
+    - pkg-auth-maintainers@lists.alioth.debian.org
+    - cjwatson@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: libfido2
+  binnames:
+    - libfido2-1
+    - libfido2-dev
+    - libfido2-doc
+    - fido2-tools
+  visiblename: libfido2
+  version: 1.17.0
+  origversion: 1.17.0-2
+  status: newest
+  maintainers:
+    - team+pkg-security@tracker.debian.org
     - cjwatson@debian.org
     - nicoo@debian.org
   categories:
