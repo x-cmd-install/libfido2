@@ -1,3 +1,9 @@
+- repo: pld
+  srcname: libfido2
+  visiblename: libfido2
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
 - repo: aerynos
   srcname: libfido2
   visiblename: libfido2
@@ -1444,6 +1450,17 @@
     - BSD-2
   categories:
     - dev-libs
+- repo: nix_stable_25_11
+  srcname: libfido2
+  visiblename: libfido2
+  version: 1.16.0
+  origversion: null
+  status: outdated
+  summary: Provides library functionality for FIDO 2.0, including communication with a device over USB.
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - BSD-2-Clause
 - repo: parrot
   subrepo: parrot-updates/main
   srcname: libfido2
@@ -1639,19 +1656,6 @@
 - repo: msys2_msys2
   subrepo: x86_64
   srcname: libfido2
-  binname: libfido2
-  visiblename: libfido2
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Library functionality for FIDO 2.0, including communication with a device over USB
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - libraries
-- repo: msys2_msys2
-  subrepo: x86_64
-  srcname: libfido2
   binname: libfido2-devel
   visiblename: libfido2-devel
   version: 1.17.0
@@ -1665,23 +1669,36 @@
 - repo: msys2_msys2
   subrepo: x86_64
   srcname: libfido2
-  binname: libfido2-docs
-  visiblename: libfido2-docs
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
-  summary: Documentation for libfido2
-  licenses:
-    - BSD-2-Clause
-- repo: msys2_msys2
-  subrepo: x86_64
-  srcname: libfido2
   binname: fido2-tools
   visiblename: fido2-tools
   version: 1.17.0
   origversion: 1.17.0-1
   status: newest
   summary: FIDO2 command line tools to access and configure a FIDO2 compliant authentication device
+  licenses:
+    - BSD-2-Clause
+- repo: msys2_msys2
+  subrepo: x86_64
+  srcname: libfido2
+  binname: libfido2
+  visiblename: libfido2
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
+  summary: Library functionality for FIDO 2.0, including communication with a device over USB
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - libraries
+- repo: msys2_msys2
+  subrepo: x86_64
+  srcname: libfido2
+  binname: libfido2-docs
+  visiblename: libfido2-docs
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: newest
+  summary: Documentation for libfido2
   licenses:
     - BSD-2-Clause
 - repo: msys2_ucrt64
@@ -1721,17 +1738,6 @@
   srcname: libfido2
   visiblename: libfido2
   version: 1.15.0
-  origversion: null
-  status: outdated
-  summary: Provides library functionality for FIDO 2.0, including communication with a device over USB.
-  maintainers:
-    - pavol@rusnak.io
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_11
-  srcname: libfido2
-  visiblename: libfido2
-  version: 1.16.0
   origversion: null
   status: outdated
   summary: Provides library functionality for FIDO 2.0, including communication with a device over USB.
@@ -2043,12 +2049,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - security
-- repo: pld
-  srcname: libfido2
-  visiblename: libfido2
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: newest
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: libfido2
