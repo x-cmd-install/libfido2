@@ -41,12 +41,12 @@ Total: **38,625** lines of code across **173** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 6 | 9 | 0 | 3 | 7 |
-| last60d | 2026-08-30 | 0 | 6 | 11 | 0 | 4 | 7 |
-| 90d | 2026-07-31 | 0 | 6 | 11 | 0 | 4 | 7 |
-| last180d | 2026-05-02 | 0 | 14 | 13 | 5 | 6 | 33 |
-| 360d | 2025-11-03 | 0 | 60 | 13 | 13 | 7 | 135 |
-| last720d | 2024-11-08 | 0 | 94 | 14 | 20 | 10 | 197 |
+| 30d | 2026-09-30 | 0 | 6 | 9 | 0 | 3 | 7 |
+| last60d | 2026-08-31 | 0 | 6 | 11 | 0 | 4 | 7 |
+| 90d | 2026-08-01 | 0 | 6 | 11 | 0 | 4 | 7 |
+| last180d | 2026-05-03 | 0 | 14 | 13 | 5 | 6 | 33 |
+| 360d | 2025-11-04 | 0 | 59 | 13 | 13 | 7 | 135 |
+| last720d | 2024-11-09 | 0 | 94 | 14 | 20 | 10 | 197 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:46:03Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:42:20Z._
