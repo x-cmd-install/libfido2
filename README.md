@@ -31,22 +31,22 @@ Total: **38,625** lines of code across **173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 752 · **Forks**: 195 · **Open issues**: 269 · **Contributors**: 76
+- **Stars**: 752 · **Forks**: 196 · **Open issues**: 270 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 568 · **Open PRs**: 20 · **Closed issues**: 254 · **Open issues**: 15 · **Commits**: 2139
+- **Releases**: 0 · **Merged PRs**: 568 · **Open PRs**: 21 · **Closed issues**: 254 · **Open issues**: 16 · **Commits**: 2139
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 4 | 8 | 0 | 4 | 4 |
-| last60d | 2026-09-14 | 0 | 6 | 13 | 0 | 4 | 7 |
-| 90d | 2026-08-15 | 0 | 6 | 13 | 0 | 5 | 7 |
-| last180d | 2026-05-17 | 0 | 12 | 15 | 3 | 7 | 22 |
-| 360d | 2025-11-18 | 0 | 55 | 15 | 13 | 8 | 135 |
-| last720d | 2024-11-23 | 0 | 94 | 15 | 20 | 11 | 197 |
+| 30d | 2026-10-15 | 0 | 4 | 9 | 0 | 5 | 4 |
+| last60d | 2026-09-15 | 0 | 6 | 14 | 0 | 5 | 7 |
+| 90d | 2026-08-16 | 0 | 6 | 14 | 0 | 6 | 7 |
+| last180d | 2026-05-18 | 0 | 12 | 16 | 3 | 8 | 22 |
+| 360d | 2025-11-19 | 0 | 55 | 16 | 13 | 9 | 135 |
+| last720d | 2024-11-24 | 0 | 94 | 16 | 20 | 12 | 197 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:34:36Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:19:09Z._
