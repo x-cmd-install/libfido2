@@ -31,26 +31,26 @@ Total: **38,625** lines of code across **173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 753 · **Forks**: 197 · **Open issues**: 270 · **Contributors**: 76
+- **Stars**: 754 · **Forks**: 198 · **Open issues**: 270 · **Contributors**: 77
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 568 · **Open PRs**: 21 · **Closed issues**: 254 · **Open issues**: 16 · **Commits**: 2139
+- **Releases**: 0 · **Merged PRs**: 569 · **Open PRs**: 20 · **Closed issues**: 254 · **Open issues**: 16 · **Commits**: 2140
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 4 | 9 | 0 | 4 | 1 |
-| last60d | 2026-09-17 | 0 | 6 | 14 | 0 | 5 | 7 |
-| 90d | 2026-08-18 | 0 | 6 | 14 | 0 | 6 | 7 |
-| last180d | 2026-05-20 | 0 | 12 | 16 | 3 | 8 | 15 |
-| 360d | 2025-11-21 | 0 | 55 | 16 | 13 | 9 | 135 |
-| last720d | 2024-11-26 | 0 | 94 | 16 | 20 | 12 | 197 |
+| 30d | 2026-10-18 | 0 | 2 | 8 | 0 | 4 | 1 |
+| last60d | 2026-09-18 | 0 | 6 | 13 | 0 | 5 | 7 |
+| 90d | 2026-08-19 | 0 | 6 | 14 | 0 | 6 | 7 |
+| last180d | 2026-05-21 | 0 | 12 | 15 | 3 | 8 | 16 |
+| 360d | 2025-11-22 | 0 | 56 | 15 | 13 | 9 | 136 |
+| last720d | 2024-11-27 | 0 | 95 | 15 | 20 | 12 | 198 |
 
 ## Distribution status
 
-Reported by **173** distros on [repology.org](https://repology.org/project/libfido2). **60** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
+Reported by **175** distros on [repology.org](https://repology.org/project/libfido2). **62** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,4 +76,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:31:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:08:49Z._
