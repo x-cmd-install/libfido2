@@ -14,12 +14,12 @@ x install libfido2
 
 ## Code insight
 
-Total: **38,625** lines of code across **173** files in the top 5 languages.
+Total: **38,958** lines of code across **173** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,648 | 1,714 | 6,129 | 120 |
-| CHeader | 3,520 | 1,029 | 703 | 32 |
+| C | 32,976 | 1,715 | 6,185 | 120 |
+| CHeader | 3,525 | 1,029 | 704 | 32 |
 | CMake | 1,215 | 80 | 126 | 8 |
 | Sh | 459 | 71 | 65 | 9 |
 | PowerShell | 372 | 50 | 48 | 4 |
@@ -31,26 +31,26 @@ Total: **38,625** lines of code across **173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 752 · **Forks**: 198 · **Open issues**: 270 · **Contributors**: 77
+- **Stars**: 752 · **Forks**: 200 · **Open issues**: 270 · **Contributors**: 77
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 569 · **Open PRs**: 19 · **Closed issues**: 254 · **Open issues**: 16 · **Commits**: 2140
+- **Releases**: 0 · **Merged PRs**: 574 · **Open PRs**: 18 · **Closed issues**: 255 · **Open issues**: 15 · **Commits**: 2152
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 6 | 0 | 2 | 1 |
-| last60d | 2026-09-21 | 0 | 6 | 13 | 0 | 5 | 7 |
-| 90d | 2026-08-22 | 0 | 6 | 13 | 0 | 6 | 7 |
-| last180d | 2026-05-24 | 0 | 11 | 14 | 3 | 8 | 16 |
-| 360d | 2025-11-25 | 0 | 56 | 14 | 13 | 9 | 136 |
-| last720d | 2024-11-30 | 0 | 95 | 14 | 19 | 12 | 198 |
+| 30d | 2026-10-22 | 0 | 4 | 7 | 0 | 2 | 9 |
+| last60d | 2026-09-22 | 0 | 11 | 12 | 0 | 5 | 19 |
+| 90d | 2026-08-23 | 0 | 11 | 12 | 1 | 5 | 19 |
+| last180d | 2026-05-25 | 0 | 16 | 13 | 4 | 7 | 28 |
+| 360d | 2025-11-26 | 0 | 61 | 13 | 14 | 8 | 148 |
+| last720d | 2024-12-01 | 0 | 100 | 13 | 20 | 11 | 210 |
 
 ## Distribution status
 
-Reported by **174** distros on [repology.org](https://repology.org/project/libfido2). **62** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
+Reported by **173** distros on [repology.org](https://repology.org/project/libfido2). **62** are ✅ on the latest upstream release, **104** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,4 +76,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:04:45Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:00:49Z._
