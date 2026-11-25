@@ -41,31 +41,12 @@ x install libfido2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 4 | 6 | 0 | 2 | 7 |
-| last60d | 2026-09-25 | 0 | 13 | 10 | 0 | 5 | 22 |
-| 90d | 2026-08-26 | 0 | 13 | 11 | 1 | 5 | 22 |
-| last180d | 2026-05-28 | 0 | 18 | 12 | 4 | 7 | 27 |
-| 360d | 2025-11-29 | 0 | 63 | 12 | 14 | 8 | 139 |
-| last720d | 2024-12-04 | 0 | 99 | 12 | 20 | 11 | 210 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/libfido2) 上共有 **173** 个发行版报告此项目。**62** 个 ✅ 已是最新上游版本，**104** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.17.0` | ✅ latest |
-| Debian 14 | `1.17.0` | ✅ latest |
-| Debian 13 | `1.15.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.16.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.14.0` | ⚠️ outdated |
-| Arch | `1.17.0` | ✅ latest |
-| Homebrew | `1.17.0` | ✅ latest |
-| Fedora rawhide | `1.17.0` | ✅ latest |
-| Nix unstable | `1.17.0` | ✅ latest |
-| Void | `1.17.0` | ✅ latest |
-| Alpine edge | `1.17.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.16.0` | ⚠️ outdated |
+| 30d | 2026-10-26 | 0 | 4 | 4 | 0 | 2 | 7 |
+| last60d | 2026-09-26 | 0 | 13 | 10 | 0 | 5 | 22 |
+| 90d | 2026-08-27 | 0 | 13 | 11 | 1 | 5 | 22 |
+| last180d | 2026-05-29 | 0 | 18 | 12 | 4 | 7 | 27 |
+| 360d | 2025-11-30 | 0 | 63 | 12 | 14 | 8 | 139 |
+| last720d | 2024-12-05 | 0 | 99 | 12 | 20 | 11 | 210 |
 
 ## 改进这些数据
 
@@ -76,4 +57,4 @@ libfido2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:54:58Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:31:10Z._
