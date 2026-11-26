@@ -31,7 +31,7 @@ Total: **38,958** lines of code across **173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 753 · **Forks**: 201 · **Open issues**: 270 · **Contributors**: 77
+- **Stars**: 754 · **Forks**: 201 · **Open issues**: 270 · **Contributors**: 77
 
 ## Totals (cumulative)
 
@@ -41,12 +41,31 @@ Total: **38,958** lines of code across **173** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 4 | 4 | 0 | 2 | 7 |
-| last60d | 2026-09-26 | 0 | 13 | 10 | 0 | 5 | 22 |
-| 90d | 2026-08-27 | 0 | 13 | 11 | 1 | 5 | 22 |
-| last180d | 2026-05-29 | 0 | 18 | 12 | 4 | 7 | 27 |
-| 360d | 2025-11-30 | 0 | 63 | 12 | 14 | 8 | 139 |
-| last720d | 2024-12-05 | 0 | 99 | 12 | 20 | 11 | 210 |
+| 30d | 2026-10-27 | 0 | 4 | 4 | 0 | 2 | 0 |
+| last60d | 2026-09-27 | 0 | 13 | 10 | 0 | 5 | 0 |
+| 90d | 2026-08-28 | 0 | 13 | 11 | 1 | 5 | 0 |
+| last180d | 2026-05-30 | 0 | 18 | 12 | 4 | 7 | 0 |
+| 360d | 2025-12-01 | 0 | 63 | 12 | 14 | 8 | 0 |
+| last720d | 2024-12-06 | 0 | 98 | 12 | 20 | 11 | 210 |
+
+## Distribution status
+
+Reported by **173** distros on [repology.org](https://repology.org/project/libfido2). **62** are ✅ on the latest upstream release, **104** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.17.0` | ✅ latest |
+| Debian 14 | `1.17.0` | ✅ latest |
+| Debian 13 | `1.15.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.14.0` | ⚠️ outdated |
+| Arch | `1.17.0` | ✅ latest |
+| Homebrew | `1.17.0` | ✅ latest |
+| Fedora rawhide | `1.17.0` | ✅ latest |
+| Nix unstable | `1.17.0` | ✅ latest |
+| Void | `1.17.0` | ✅ latest |
+| Alpine edge | `1.17.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.16.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -57,4 +76,4 @@ Install metadata for libfido2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:31:09Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:12:13Z._
