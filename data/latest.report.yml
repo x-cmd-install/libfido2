@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:21:54Z
+  collectedAt: 2026-11-28T07:43:20Z
 timeline:
   created: 2018-04-19
   lastCommit: 2026-11-27
@@ -23,7 +23,7 @@ popularity:
   pullRequest: 647
   issue: 270
 language:
-  C: 1148822
+  C: 1148827
   Shell: 37888
   CMake: 27988
   Gnuplot: 15948
@@ -31,50 +31,50 @@ language:
   Makefile: 3045
   Awk: 2679
   Dockerfile: 634
-totalBytes: 1252383
+totalBytes: 1252388
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 5
     openPR: 4
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 8
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 14
     openPR: 10
     closedIssue: 1
     openIssue: 4
-    commit: 0
+    commit: 23
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 14
     openPR: 11
     closedIssue: 2
     openIssue: 4
-    commit: 0
+    commit: 23
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 18
     openPR: 12
     closedIssue: 5
     openIssue: 6
-    commit: 0
+    commit: 28
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 64
     openPR: 12
     closedIssue: 13
     openIssue: 7
-    commit: 0
+    commit: 140
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 99
     openPR: 12
@@ -90,7 +90,7 @@ total:
   commit: 2156
 ---
 path: /home/runner/.x-repo/github.com/Yubico/libfido2
-collectedAt: 2026-11-27T08:21:59Z
+collectedAt: 2026-11-28T07:43:22Z
 loc:
   C:
     code: 32976
